@@ -1,0 +1,93 @@
+body{
+    font-family: 'Do Hyeon', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.top-h-color {
+    color: indianred;
+}
+.hello-im{
+    width: 40%;
+    float: left;
+    padding: 1%;
+    margin: 2%;
+}
+.hello-im img{
+    width: 466px;
+    height: 466px;
+}
+section{
+    height: 500px;
+    padding-bottom: 130px;
+    margin: 0;
+}
+.third-hone{
+    color: indianred;
+}
+.third-one{
+    text-align: center;
+}
+.butone-linkc {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, Tomato);
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-weight: 800px;
+    color: white;
+
+}
+.lastest-pro {
+width: 30%;
+float:right;
+margin-left: 5%;
+padding-left:4%;
+}
+#first-one{
+    width: 20%;
+    float: left;
+}
+#second-one {
+    width: 20%;
+    float: left;
+}
+#third-one {
+    width: 22%;
+    float: left;
+}
+.lastest-pro img{
+    width: 343px;
+    height: 213px;
+}
+.box-showe{
+    box-shadow: 10px 11px 40px;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px 10px 10px;
+    height:350px;
+    width: 350px;
+    padding-left: 5%;
+}
+.last-sec-back {
+    
+    background-color: #E5E5E5;
+}
+.inquery-section img{
+    width: 60%;
+}
+.inquery-section{
+    text-align: center;
+    position: relative;
+}
+.inquery-text{
+    position: absolute;
+    top: 46px;
+    left: 539px;
+    color: white;
+    font-size: 20px;
+}
+.chatbtn{
+    position: absolute;
+    top: 105px;
+    right: 530px;
+}
